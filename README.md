@@ -5,8 +5,8 @@
 <div>
 ### More about me:
      <br>
-     <a href="javascript:window.open('[https://www.google.es](https://www.youtube.com/@dev.gnzx2)','','toolbar=yes');void 0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-     <a href="https://www.youtube.com/@dev.gnzx2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+     <a href="javascript:window.open('[https://www.google.es](https://www.youtube.com/@dev.gnzx2)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+     <a href="https://www.youtube.com/@dev.gnzx2" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
      <a href="https://instagram.com/Gnzx2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://discord.gg/wvpj5fA3Pj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/carlos-a-gonzález-g-68b56016b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
