@@ -6,7 +6,7 @@
 <h1 align="left">Connect with me</h1>
 <br>
      <table align="center">
-          <td width="80%" align="center">
+          <td width="80%" height="30%" align="center">
                <a href="https://www.youtube.com/@dev.gnzx2" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
                <a href="https://instagram.com/Gnzx2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
                <a href="https://discord.gg/wvpj5fA3Pj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
