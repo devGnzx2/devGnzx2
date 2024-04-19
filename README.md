@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
-![VS Code](https://img.shields.io/badge/visualstudiocode-0D1117?style=for-the-badge&logo=visual-studio-code=0D1117&labelColor=0D1117)&nbsp;
+![VS Code](https://img.shields.io/badge/visualstudiocode-0D1117?style=for-the-badge&logo=visual-studio-code)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
