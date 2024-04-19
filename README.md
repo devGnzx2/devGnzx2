@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ad700&size=35&center=true&vCenter=true&width=1000&lines=+HELLO,+MY+NAME+is+Carlos+A.+González+G.;I'm+32+years+old.;I+am+from+Margarita+Island,+Venezuela.;and+I'm+living+Curitiba,+PR.;I'm+a+Systems+Engenieer+at+Unimar.;Be+Welcome!!!)](https://git.io/typing-svg)
 
 <div>
-### More about me:
+## More about me:
      <br>
      <a href="https://www.youtube.com/@dev.gnzx2" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
      <a href="https://instagram.com/Gnzx2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -19,12 +19,12 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGnzx2&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-### Main skills:
+## Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
+## Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
