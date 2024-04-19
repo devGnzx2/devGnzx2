@@ -7,12 +7,12 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devGnzx2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGnzx2&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div>
-    ### Main skills:
+
+### Main skills:
     ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
     ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- </div>
+
  <br>
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
