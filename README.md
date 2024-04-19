@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ad700&size=35&center=true&vCenter=true&width=1000&lines=+HELLO,+MY+NAME+is+Carlos+A.+González+G.;I'm+32+years+old.;I+am+from+Margarita+Island,+Venezuela.;and+I'm+living+Curitiba,+PR.;I'm+a+Systems+Engenieer+at+Unimar.;Be+Welcome!!!)](https://git.io/typing-svg)
 
 <div>
-    <br>
 ### More about me:
      <br>
      <a href="https://www.youtube.com/@dev.gnzx2" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
